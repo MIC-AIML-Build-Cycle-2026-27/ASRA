@@ -105,3 +105,8 @@ Thumbs.db
 # ------------------------------------------------------------------
 *.log
 logs/
+
+# Local AI tooling
+.agents/
+.claude/
+skills-lock.json
